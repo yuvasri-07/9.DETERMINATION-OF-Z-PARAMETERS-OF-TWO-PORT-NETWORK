@@ -42,6 +42,10 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
 <img width="1025" height="1280" alt="image" src="https://github.com/user-attachments/assets/5ae5cf97-47dd-4a46-809e-3f6a7a8cf1a2" />
 
 
+<img width="1915" height="945" alt="Screenshot 2026-05-22 090710" src="https://github.com/user-attachments/assets/12db35f3-1be0-4719-a982-9c1083c19b6a" />
+
+
+
 **PROCEDURE:**
 
 a)	Connect the circuit as shown in fig. & switch ‘ON’ the experimentalboard.
