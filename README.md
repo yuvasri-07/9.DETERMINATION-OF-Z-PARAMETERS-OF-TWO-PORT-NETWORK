@@ -61,4 +61,4 @@ e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **RESULT:**
 
-The Z-parameters of the two port network has been calculated and verified by using Multisim Simulator.
+The Z-parameters of the two port network has been calculated and verified by using LTspice Simulator.
